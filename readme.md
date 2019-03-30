@@ -7,7 +7,7 @@ There are 2 ways to enter the username :
 * Directly enter the username in the first field. It will be helpful if only a few developers' contribution statistics have to be fetched.
 * Click on "Browse" button and select the CSV or Excel file containing the list of usernames.
 
-The user will also have the flexibility to select the platform through he/she wants to fetch the data, i.e a user may select GitHub only or all the three platforms.
+User will also have the flexibility to select the platform from which he/she wants to fetch the data, i.e a user may select GitHub only or all the three platforms.
 Then the user has to enter the start date and end date for the timeframe and click on "Fetch Stats" to move to screen 2 which display statistics.
 
 ### Screen 2
@@ -17,4 +17,4 @@ When clicked on any developer's detail in the list, screen 3 will be opened with
 
 ### Screen 3
 Screen 3 represents the individual statistics of the selected developer. It displays 3-4 key statistics for the developer in the graphical form (this stats are randomly chosen right now, user feedback will be used to select the most important stats).
-It will contain at most 3 lists, each corresponds to the platform selected by the user in screen 1. Each list will consist of individual contributions made by the developer on that platform. When clicked on list entries, the tool will redirect the user to that particular contribution's webpage. "Load More" options are used for the same purpose as in screen 2.
+It will contain at most 3 lists, each corresponding to the platform selected by the user in screen 1. Each list will consist of individual contributions made by the developer on that platform. When clicked on list entries, the tool will redirect the user to that particular contribution's webpage. "Load More" options are used for the same purpose as in screen 2.
