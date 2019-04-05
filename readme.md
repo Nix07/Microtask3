@@ -1,7 +1,8 @@
 # Third Microtask
 This is a mockup for the first 3 screens of the tool.
 
-Demo - https://nix07.github.io/Microtask3/index.html
+Live - https://nix07.github.io/Microtask3/index.html
+Screenshots - Present in "Screens" directory
 
 ### Screen 1
 Screen 1 represents the landing page of the tool. It has a navigation bar (standard in all screens). A brief introduction about the tool is provided, to inform the new users. 
